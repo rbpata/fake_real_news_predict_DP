@@ -22,6 +22,18 @@ This is a simple Flask-based web application that predicts whether a given news 
 3. The app tells you whether the headline is **Fake** or **Real**
 
 ---
+## 📸 Screenshots
+
+### 📝 Input Interface
+
+<img src="images/1.png" alt="Input UI" width="500"/>
+
+### ✅ Prediction Output
+
+<img src="images/2.png" alt="Output UI" width="500"/>
+
+---
+
 
 ## 🧰 Tech Stack
 
